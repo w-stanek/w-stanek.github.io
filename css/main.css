@@ -11738,6 +11738,13 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 /* line 8, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
+.placeholder {
+  display: block;
+  margin-bottom: 10px;
+  top: 60px;
+}
+
+/* line 14, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
 #hero {
   background: url(../img/background.jpg);
   background-position: center center;
@@ -11746,17 +11753,17 @@ a.text-dark:hover, a.text-dark:focus {
   min-height: 100vh;
 }
 
-/* line 15, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
+/* line 21, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
 #hero #header {
   min-height: 100vh;
 }
 
-/* line 19, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
+/* line 25, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
 #contact {
   background-color: darkslategray;
 }
 
-/* line 22, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
+/* line 28, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
 #icon {
   width: 60px;
   height: 60px;
@@ -11766,7 +11773,7 @@ a.text-dark:hover, a.text-dark:focus {
   animation-iteration-count: infinite;
 }
 
-/* line 30, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
+/* line 36, ../!ukazka prace/www cviko bootstrap/scss/_custom.scss */
 .icon-wrapper {
   width: 100vw;
   height: 100vh;
